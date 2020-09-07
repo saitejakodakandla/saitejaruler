@@ -82,6 +82,7 @@ body4{color: red;
 		<section10>stay in touch<br><br><br>
 		<a href="https://www.instagram.com/being_saiteja/">instagram</a>
 		<a href="https://www.facebook.com/chako.saiteja">facebook</a>
-		<a href="https://www.linkedin.com/in/saiteja-kodakandla-56127718a/">linkedin</a></section10>
+		<a href="https://www.linkedin.com/in/saiteja-kodakandla-56127718a/">linkedin</a>
+	<a href="https://wa.me/qr/ACBZ2EDZPQF5H1">Whatsapp</section10>
 		
 	</html>
