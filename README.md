@@ -84,5 +84,5 @@ body4{color: red;
 		<a href="https://www.facebook.com/chako.saiteja">facebook</a>
 		<a href="https://www.linkedin.com/in/saiteja-kodakandla-56127718a/">linkedin</a>
 	<a href="https://wa.me/qr/ACBZ2EDZPQF5H1">Whatsapp</section10>
-		
+	
 	</html>
