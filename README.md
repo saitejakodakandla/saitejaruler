@@ -1,11 +1,5 @@
 <!DOCTYPE html>
-
-
-
-
-
-
-	<html>
+<html>
 	<head>
 		<title>Saiteja <img src="img/clouds.jpg"></title>
 <style>
@@ -25,7 +19,6 @@
 			color: yellow;
 			font-size: 250%;
 			font-style:normal;
-			
 			text-align: center;	font-family: "Comic Sans MS", cursive, sans-serif;	}
 			section3{
 				padding: 0px 0px 0px 145px;
@@ -35,11 +28,8 @@
 			font-family: 'Merriweather', serif;
 			text-align: center;}
 			section4{padding: 0px 700px 0px 0px;
-
 			}
-		
-			
-			body1{
+	body1{
 				background: white;
 				margin: auto;
 				padding: 700px 750px 650px 500px;
