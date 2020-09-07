@@ -71,7 +71,7 @@ body4{color: red;
 	<section2><h1><p1>Saiteja</p1></h1></section2><br><br>
 		<section3>I'm a Student</section3>
 		<section4><img src="img/clouds.jpg"></section4>
-		</body><br>
+		</body><br><br><br>
 		<body1><img src="img/saiteja12.jpg" ></body1><br>
 		<body2>I'm a student(b.tech I.T)</body2><br>
 		<body3><a href="bharathuniv.ac.in"><br>BHARATH INSTITUTE OF HIGHER EDUCATION<br> AND RESEARCH(BIHER)<br>in chennai</a><br>
