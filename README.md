@@ -89,10 +89,8 @@ body4{color: red;
 			<section11><img src="img/photo1.jfif"></section11><br>
 			<section13><a href="https://www.google.com/search?rlz=1C1CHBF_enIN917IN917&sxsrf=ALeKk02EzM4rBQ3h5IrhQ9yhTeU0Xipizg%3A1599302328041&ei=uGpTX9SSAvS1mge-yJCoBA&q=about+cars&oq=about+cars&gs_lcp=CgZwc3ktYWIQARgAMgQIIxAnMgIIADICCAAyAggAMgIIADICCAAyAggAMgIIADIECAAQCjICCAA6BAgAEEc6BggAEBYQHjoECAAQQzoQCC4QsQMQxwEQowIQFBCHAjoFCAAQsQM6BQguELEDOgcIABAUEIcCOgcIABCxAxBDOgcILhCxAxBDOgsILhCxAxDHARCjAjoECC4QQzoHCCMQ6gIQJzoNCC4QxwEQrwEQ6gIQJzoFCAAQkQI6CAgAELEDEIMBOgIILlD3D1itUmCVYWgBcAF4BIAB6QGIAbgZkgEGNS4xOC4ymAEAoAEBqgEHZ3dzLXdperABCsABAQ&sclient=psy-ab">cars</a><br><br><br></section13>
 				<section14><a href="https://www.google.com/search?rlz=1C1CHBF_enIN917IN917&sxsrf=ALeKk01yI7bnNF1RFVDpOk5rXuQAYI5jxQ%3A1599302505122&ei=aWtTX6iBB46f9QOg04OoCw&q=innova&oq=innova&gs_lcp=CgZwc3ktYWIQARgAMgQIIxAnMgQIIxAnMgUIABCRAjIFCAAQkQIyBQgAELEDMgcIABCxAxBDMgIIADIFCAAQsQMyAggAMgUIABCxAzoECAAQRzoHCAAQFBCHAjoHCCMQ6gIQJzoNCC4QxwEQrwEQ6gIQJzoICAAQsQMQgwE6BAgAEEM6DQgAELEDEIMBEBQQhwJQg8QEWPThBGCS7gRoAXABeASAAc4BiAG3DpIBBTAuOS4ymAEAoAEBqgEHZ3dzLXdperABCsABAQ&sclient=psy-ab">This is fav car;<br>INNOVA</a></section14><br>
-
-
 		<section10>stay in touch<br><br><br>
-		<a href="https:// www. instagram.com /being_saiteja">instagram</a>
+		<a href="https://www.instagram.com/being_saiteja/">instagram</a>
 		<a href="https://www.facebook.com/chako.saiteja">facebook</a>
 		<a href="https://www.linkedin.com/in/saiteja-kodakandla-56127718a/">linkedin</a></section10>
 		
